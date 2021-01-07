@@ -13,13 +13,44 @@ div {
     /* border: 1px solid #4CAF50; */
     margin-top: 200px;
 }
+/* AvenirNext-UltraLight */
+#intro {
+    font-family: Monaco, AvenirNext-UltraLight;
+    font-size: x-large;
+    width: 70%;
+    font-weight: bold;
+}
 
 /* Class */
 .center {
     margin: auto;
-    width: 50%;
     /* border: 3px solid blue; */
+    width: 70%;
     padding: 10px;
-    text-align: center
+    text-align: center;
 }
 
+.firstLayerButtons {
+    font-size: x-large;
+    background-color: transparent;
+    border: transparent;
+    font-family: AvenirNext-UltraLight, Avenir, Courier, monospace, 'Courier New';
+    font-style: bold;
+
+}
+
+.firstLayerButtons:hover {
+    background-color: black;
+    color: white;
+}
+
+.aboutMeDetails {
+    margin-top: 50px;
+    margin-left: 20%;
+    /* border: 3px solid blue; */
+    width: 50%;
+    padding: 10px;
+    font-size: x-large;
+    font-family: Monospace, Courier, monospace;
+    /* font-weight: bold; */
+}
