@@ -14,3 +14,4 @@ for (i = 0; i < coll.length; i++) {
 }
 
 document.getElementsByClassName("collapsible")[0].click()
+document.getElementsByClassName("collapsible")[5].click()
