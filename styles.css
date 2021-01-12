@@ -336,6 +336,7 @@ div {
       position: relative;
       margin: 4px 0 0 0;
       z-index: 14;
+      font-size: medium;
   }
   
   .direction-l .time-wrapper {
@@ -351,6 +352,7 @@ div {
       margin: 1em 0 0 0;
       padding: 1em;
       background: #EDECEB;
+      font-size: medium;
       /* -webkit-box-shadow: 0 0 1px rgba(0,0,0,0.20);
       -moz-box-shadow: 0 0 1px rgba(0,0,0,0.20);
       box-shadow: 0 0 1px rgba(0,0,0,0.20); */
@@ -377,8 +379,6 @@ div {
   }
   
   }
-
-
 
   /* Collapsible */
   .collapsible {
